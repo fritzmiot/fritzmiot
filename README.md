@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fritzmiot
 - 👀 I’m interested in doing biomedical research.
-- 🌱 I’m currently learning how to use this *vaguely gestures at computer*
+- 🌱 I’m currently learning how to use this \*vaguely gestures at computer*
 - 💞️ I’m looking to collaborate on TBD
 - 📫 You can reach me here: miot.fritz@gmail.com but don't send me spam.
 
